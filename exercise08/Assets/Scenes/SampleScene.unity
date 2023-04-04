@@ -4206,7 +4206,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6188977903727558459, guid: 3901604431ce09d40b6a5b755da531b0, type: 3}
       propertyPath: m_Name
-      value: Orangutan
+      value: player
       objectReference: {fileID: 0}
     - target: {fileID: 6820835984257344897, guid: 3901604431ce09d40b6a5b755da531b0, type: 3}
       propertyPath: m_RootOrder
