@@ -93,7 +93,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6820835984257344897}
   m_Layer: 0
-  m_Name: Orangutan
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
