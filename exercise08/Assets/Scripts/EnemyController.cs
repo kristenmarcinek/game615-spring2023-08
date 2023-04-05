@@ -4,19 +4,16 @@ using UnityEngine;
 using UnityEngine.AI;
 
 public class EnemyController : MonoBehaviour
-
-
-
 {
     
-    NavMeshAgent nma;
+    public NavMeshAgent nma;
     float newPositionTimer = 0;
 
     // Start is called before the first frame update
     void Start()
     {
         // Grab the reference to the NavMeshAgent on this gameObject.
-        nma = gameObject.GetComponent<NavMeshAgent>();
+        //nma = gameObject.GetComponent<NavMeshAgent>();
     }
 
     // Update is called once per frame
